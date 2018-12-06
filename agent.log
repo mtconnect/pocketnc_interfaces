@@ -1,0 +1,32 @@
+2018-12-06T14:06:03.973981Z: DEBUG [0] init.config: Checking for Devices XML configuration file: /home/pocketnc_interfaces/deviceFiles/combined.xml
+2018-12-06T14:06:03.990051Z: DEBUG [0] init.config:   Stat returned: -1
+2018-12-06T14:06:03.990094Z: DEBUG [0] init.config: Could not find file: /home/pocketnc_interfaces/deviceFiles/combined.xml
+2018-12-06T14:06:03.990130Z: DEBUG [0] init.config: Checking for Devices XML configuration file: Devices.xml
+2018-12-06T14:06:03.990155Z: DEBUG [0] init.config:   Stat returned: -1
+2018-12-06T14:06:03.990182Z: DEBUG [0] init.config: Could not find file: Devices.xml
+2018-12-06T14:06:03.990215Z: DEBUG [0] init.config: Checking for Devices XML configuration file: /usr/local/bin/Devices.xml
+2018-12-06T14:06:03.990235Z: DEBUG [0] init.config:   Stat returned: -1
+2018-12-06T14:06:03.990250Z: DEBUG [0] init.config: Could not find file: /usr/local/bin/Devices.xml
+2018-12-06T14:06:03.990271Z: DEBUG [0] init.config: Checking for Devices XML configuration file: probe.xml
+2018-12-06T14:06:03.990291Z: DEBUG [0] init.config:   Stat returned: -1
+2018-12-06T14:06:03.990307Z: DEBUG [0] init.config: Could not find file: probe.xml
+2018-12-06T14:06:03.990328Z: DEBUG [0] init.config: Checking for Devices XML configuration file: /usr/local/bin/probe.xml
+2018-12-06T14:06:03.990347Z: DEBUG [0] init.config:   Stat returned: -1
+2018-12-06T14:06:03.990363Z: DEBUG [0] init.config: Could not find file: /usr/local/bin/probe.xml
+2018-12-06T14:06:03.990529Z: FATAL [0] init.config: Agent failed to load: Please make sure the configuration file probe.xml or Devices.xml is in the current directory or specify the correct file in the configuration file configFiles/agent.cfg using Devices = <file>
+2018-12-06T14:06:48.279145Z: DEBUG [0] init.config: Checking for Devices XML configuration file: /home/pocketnc_interfaces/deviceFiles/combined.xml
+2018-12-06T14:06:48.279237Z: DEBUG [0] init.config:   Stat returned: -1
+2018-12-06T14:06:48.279258Z: DEBUG [0] init.config: Could not find file: /home/pocketnc_interfaces/deviceFiles/combined.xml
+2018-12-06T14:06:48.279290Z: DEBUG [0] init.config: Checking for Devices XML configuration file: Devices.xml
+2018-12-06T14:06:48.279311Z: DEBUG [0] init.config:   Stat returned: -1
+2018-12-06T14:06:48.279328Z: DEBUG [0] init.config: Could not find file: Devices.xml
+2018-12-06T14:06:48.279351Z: DEBUG [0] init.config: Checking for Devices XML configuration file: /usr/local/bin/Devices.xml
+2018-12-06T14:06:48.279372Z: DEBUG [0] init.config:   Stat returned: -1
+2018-12-06T14:06:48.279388Z: DEBUG [0] init.config: Could not find file: /usr/local/bin/Devices.xml
+2018-12-06T14:06:48.279410Z: DEBUG [0] init.config: Checking for Devices XML configuration file: probe.xml
+2018-12-06T14:06:48.279429Z: DEBUG [0] init.config:   Stat returned: -1
+2018-12-06T14:06:48.279446Z: DEBUG [0] init.config: Could not find file: probe.xml
+2018-12-06T14:06:48.279468Z: DEBUG [0] init.config: Checking for Devices XML configuration file: /usr/local/bin/probe.xml
+2018-12-06T14:06:48.279488Z: DEBUG [0] init.config:   Stat returned: -1
+2018-12-06T14:06:48.279505Z: DEBUG [0] init.config: Could not find file: /usr/local/bin/probe.xml
+2018-12-06T14:06:48.279621Z: FATAL [0] init.config: Agent failed to load: Please make sure the configuration file probe.xml or Devices.xml is in the current directory or specify the correct file in the configuration file /home/ssingh/pocketnc_interfaces/configFiles/agent.cfg using Devices = <file>
